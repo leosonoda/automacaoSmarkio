@@ -1,1 +1,21 @@
 # automacaoSmarkio
+
+#Sobre o teste: 
+#Foi feita a automação de uma adição de um produto ao carrinho no site Netshoes. O produto escolhido foi uma "Raquete Butterfly". Utilizei #Java, Selenium e Cucumber para o desenvolvimento do mesmo. Todas as dependências foram adicionadas via Maven(POM) e o teste foi feito #para utilização no navegador Google Chrome. 
+
+
+#Instruções:
+#O arquivo gherkin escrito e utilizado está na pasta "src/test/resources", e pacote gherkin.
+
+#Para a demonstração do teste, abrir pasta "src/test/java", pacote "runner", e rodar o arquivo "executar.java"(com uso do JUnit).
+
+#O pacote "runner", contém as configurações do Cucumber juntamente com o JUnit.
+
+#O pacote "steps", contém todos os passos do teste e o código utilizado.
+
+#Após a execução do teste, será emitido no console, um relatório com todos os dados do teste.
+
+
+
+
+
